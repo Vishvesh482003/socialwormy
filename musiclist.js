@@ -11,9 +11,9 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "music-1",
+    name: "Laila",
+    artist: "Pawny Pandey",
+    img: "https://a10.gaanacdn.com/images/albums/26/1836026/crop_55x55_1836026.jpg?version=14",
     src: "https://vodhlsweb-vh.akamaihd.net/i/songs/41/2424641/25582527/25582527_64.mp4/master.m3u8?set-akamai-hls-revision=5&hdnts=st=1621445634~exp=1621460034~acl=/i/songs/41/2424641/25582527/25582527_64.mp4/*~hmac=a919ca9026cb8efc4f0e55ca2c3606523cdf5b2d836b695fca43e8a667db1ea2"
   },
   {
